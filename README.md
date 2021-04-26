@@ -25,9 +25,7 @@ Have a nice day! :grin:
 
 ### :star: Side projects
 
-- [LesFinder Backend](https://github.com/izabela-k/lesfinder) - Golang, Gin
-- [LesFinder Web](https://github.com/izabela-k/lesfinder-web) - TypeScript, React
-- [LesFinder Mobile](https://github.com/izabela-k/lesfinder-mobile) - TypeScript, React, React Native
+# TODO...
 
 
 [1.1]: https://raw.githubusercontent.com/izabela-k/izabela-k/master/linkedin-3-16.png (LinkedIn icon without padding)
