@@ -1,6 +1,6 @@
 ## Hello! :wave:
 
-My name is Izabela and I'm a software developer/DevOps engineer. I'm live in Warsaw and currently working at Daftcode. You can find me on [LinkedIn][1].
+My name is Izabela and I'm a software developer/DevOps engineer. 
 
 
 Have a nice day! :grin:
@@ -26,9 +26,3 @@ Have a nice day! :grin:
 ### :star: Side projects
 
 # TODO...
-
-
-[1.1]: https://raw.githubusercontent.com/izabela-k/izabela-k/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-[1]: https://www.linkedin.com/in/izabela-kaczynska/
